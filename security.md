@@ -6,7 +6,7 @@ En fait, un serveur 100% sécurisé est un serveur éteint.
 
 ## Est-ce important ?
 
-[![](https://www.commitstrip.com/wp-content/uploads/2017/06/Strip-La-s%C3%A9curit%C3%A9-apr%C3%A8s-tout-2.jpg)](http://localhost:8080/category/1/delete)
+[![](https://www.commitstrip.com/wp-content/uploads/2017/06/Strip-La-s%C3%A9curit%C3%A9-apr%C3%A8s-tout-2.jpg)](http://localhost:8080/category/2/delete)
 
 ## A-t-on déjà de bons réflexes ?
 
