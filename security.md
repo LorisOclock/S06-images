@@ -14,7 +14,7 @@ En fait, un serveur 100% sécurisé est un serveur éteint.
 
 ## Quelles sont les règles ?
 
-[![](http://www.commitstrip.com/wp-content/uploads/2016/01/Strip-Cdiscount-650-final-1.jpg)](http://localhost:8080/category/1/delete)
+[![](http://localhost:8080/category/2/delete)](http://localhost:8080/category/1/delete)
 
 **OWASP.org** est une très bonne ressource d'information sur la sécurité des sites internet.  
 [Cliquez-ici pour voir des exemples d'attaques connues](http://localhost:8080/category/1/delete) et comment les contrer.
